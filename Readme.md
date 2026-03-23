@@ -1,5 +1,6 @@
-- Security and Systems 
- Development Web Applications
+- Pentest & Scripting
+= Development Web Applications
 - API
-- Network and Pentest
+- Network & Security 
+- Privacy & Anonymity
   
